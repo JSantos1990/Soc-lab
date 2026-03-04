@@ -24,3 +24,9 @@ This document introduces concepts used to detect email-based threats.
 📸 Placeholder: suspicious email example.
 
 ---
+
+## 📝 3. Notes
+
+More email analysis coming later.
+
+---
